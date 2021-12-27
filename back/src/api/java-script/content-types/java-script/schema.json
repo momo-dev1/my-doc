@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "java_scripts",
+  "info": {
+    "singularName": "java-script",
+    "pluralName": "java-scripts",
+    "displayName": "JavaScript",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "Code": {
+      "type": "richtext"
+    }
+  }
+}
