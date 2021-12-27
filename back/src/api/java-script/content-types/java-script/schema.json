@@ -18,7 +18,13 @@
     "content": {
       "type": "richtext"
     },
-    "Code": {
+    "code": {
+      "type": "richtext"
+    },
+    "steps": {
+      "type": "richtext"
+    },
+    "html": {
       "type": "richtext"
     }
   }

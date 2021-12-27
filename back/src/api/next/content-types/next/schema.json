@@ -4,7 +4,8 @@
   "info": {
     "singularName": "next",
     "pluralName": "nexts",
-    "displayName": "next"
+    "displayName": "next",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -14,10 +15,16 @@
     "title": {
       "type": "string"
     },
-    "Content": {
+    "content": {
       "type": "richtext"
     },
-    "Code": {
+    "code": {
+      "type": "richtext"
+    },
+    "steps": {
+      "type": "richtext"
+    },
+    "html": {
       "type": "richtext"
     }
   }
